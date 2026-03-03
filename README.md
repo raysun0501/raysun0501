@@ -15,8 +15,8 @@
 
 <!-- GitHub Stats 和 Most Used Languages 并排 -->
 <p align="center">
-  <img src="https://github-readme-stats-git-master-raysuns-projects-3516cb49.vercel.app/api?username=RaySunWHUT&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats-git-master-raysuns-projects-3516cb49.vercel.app/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
+  <img src="https://stats.enterhistory.icu/api?username=RaySunWHUT&show_icons=true&hide_border=true" />
+  <img src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
 </p>
 
 <!-- 贡献蛇 -->
