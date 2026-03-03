@@ -19,8 +19,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaySunWHUT&hide_border=true" />
 </p>
 
-<!-- Streak Stats 和 Most Used Languages 并排 -->
+<!-- WakaTime 和 Most Used Languages 并排 -->
 <p align="center">
+  <img src="https://stats.enterhistory.icu/api/wakatime?username=RaySunWHUT&layout=compact&hide_border=true" />
   <img src="https://stats.enterhistory.icu/api/top-langs?username=RaySunWHUT&layout=compact&langs_count=5&hide_border=true" />
 </p>
 
