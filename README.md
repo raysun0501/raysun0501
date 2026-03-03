@@ -1,8 +1,6 @@
 <!-- 打字动画标题 -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ray+Sun+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;惜取少年时+%7C+Cherish+Youth" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ray+Sun+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;惜取少年时+%7C+Cherish+Youth" />
 </p>
 
 <!-- 个人简介徽章栏 -->
